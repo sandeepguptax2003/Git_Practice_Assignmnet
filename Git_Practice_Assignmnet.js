@@ -8,6 +8,13 @@ count++;
 }
 if (count==2)
     {
+        {
+            if(count==2)
+            {
+              count ==1  
+            }
+        }
+
         console.log("Prime")
     }
     else{
