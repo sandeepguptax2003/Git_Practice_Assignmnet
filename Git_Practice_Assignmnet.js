@@ -1,8 +1,12 @@
 let count = 0;
 
-for(let i =0;i<NaN;i++)
+for(let i =0;i<N;i++)
 {
-    if(arr[i]%2==0)
+    if(N%2==0)
+{
+count++;
+}
+if (count==2)
     {
         console.log("Prime")
     }
